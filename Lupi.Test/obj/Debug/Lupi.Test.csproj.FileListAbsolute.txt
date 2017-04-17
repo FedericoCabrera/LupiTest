@@ -15,3 +15,6 @@ c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\obj\Debug
 c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\obj\Debug\Lupi.Test.csproj.GenerateResource.Cache
 c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\obj\Debug\Lupi.Test.exe
 c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\obj\Debug\Lupi.Test.pdb
+C:\Users\fede\Documents\LupiTest\Lupi.Test\bin\Debug\Lupi.Test.exe.config
+C:\Users\fede\Documents\LupiTest\Lupi.Test\obj\Debug\Lupi.Test.exe
+C:\Users\fede\Documents\LupiTest\Lupi.Test\obj\Debug\Lupi.Test.pdb

@@ -8,6 +8,7 @@ namespace Lupi.Data.Entities
 {
     public class Pet
     {
+        //Pet
         public Guid Id { get; set; }
         public string Name { get; set; }
         public int Age { get; set; }
