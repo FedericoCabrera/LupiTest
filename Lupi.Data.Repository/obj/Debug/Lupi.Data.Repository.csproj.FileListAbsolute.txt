@@ -1,0 +1,14 @@
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\bin\Debug\Lupi.Data.Repository.dll.config
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\bin\Debug\Lupi.Data.Repository.dll
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\bin\Debug\Lupi.Data.Repository.pdb
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\bin\Debug\EntityFramework.dll
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\bin\Debug\Lupi.Data.DataAccess.dll
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\bin\Debug\Lupi.Data.Entities.dll
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\bin\Debug\Lupi.Data.DataAccess.pdb
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\bin\Debug\Lupi.Data.Entities.pdb
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\bin\Debug\EntityFramework.xml
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\obj\Debug\Lupi.Data.Repository.csprojResolveAssemblyReference.cache
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\obj\Debug\Lupi.Data.Repository.dll
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.Data.Repository\obj\Debug\Lupi.Data.Repository.pdb
