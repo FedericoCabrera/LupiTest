@@ -1,0 +1,17 @@
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\bin\Debug\Lupi.Test.exe.config
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\bin\Debug\Lupi.Test.exe
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\bin\Debug\Lupi.Test.pdb
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\bin\Debug\EntityFramework.dll
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\bin\Debug\Lupi.Data.DataAccess.dll
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\bin\Debug\Lupi.Data.Entities.dll
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\bin\Debug\Lupi.Data.DataAccess.pdb
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\bin\Debug\Lupi.Data.Entities.pdb
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\bin\Debug\EntityFramework.xml
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\obj\Debug\Lupi.Test.csprojResolveAssemblyReference.cache
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\obj\Debug\Lupi.Test.Form1.resources
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\obj\Debug\Lupi.Test.Properties.Resources.resources
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\obj\Debug\Lupi.Test.csproj.GenerateResource.Cache
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\obj\Debug\Lupi.Test.exe
+c:\users\fede\documents\visual studio 2015\Projects\Lupi.Web\Lupi.Test\obj\Debug\Lupi.Test.pdb

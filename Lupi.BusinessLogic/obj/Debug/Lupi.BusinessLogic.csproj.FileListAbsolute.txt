@@ -1,0 +1,13 @@
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\bin\Debug\Lupi.BusinessLogic.dll
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\bin\Debug\Lupi.BusinessLogic.pdb
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\bin\Debug\Lupi.Data.Entities.dll
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\bin\Debug\Lupi.Data.Repository.dll
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\bin\Debug\Lupi.Data.DataAccess.dll
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\bin\Debug\Lupi.Data.Entities.pdb
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\bin\Debug\Lupi.Data.Repository.pdb
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\bin\Debug\Lupi.Data.DataAccess.pdb
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\obj\Debug\Lupi.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\obj\Debug\Lupi.BusinessLogic.dll
+C:\Users\fede\Documents\Visual Studio 2015\Projects\Lupi.Web\Lupi.BusinessLogic\obj\Debug\Lupi.BusinessLogic.pdb
