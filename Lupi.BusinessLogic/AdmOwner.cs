@@ -17,7 +17,8 @@ namespace Lupi.BusinessLogic
             unitOfWork = new UnitOfWork();
             Pet p = new Pet()
             {
-                Age = 19
+                Age = 19,
+                Name = "Tito"
             };
 
             if(!p.IsNameValueValid())
