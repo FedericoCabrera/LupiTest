@@ -19,5 +19,9 @@ namespace Lupi.Data.Entities
         public Collar AssignedCollar { get; set; }
         public Base64Image Image { get; set; }
 
+        public bool IsNameValueValid()
+        {
+            return this.Name != null && this.Name.Trim() != "" && !this.Name.Contains(" ");
+        }
     }
 }

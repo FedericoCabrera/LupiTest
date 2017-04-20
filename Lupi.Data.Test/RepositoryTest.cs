@@ -22,11 +22,7 @@ namespace Lupi.Data.Test
 
             Owner newOwner = new Owner()
             {
-                Id = new Guid("19FBB4D8-F06C-4506-9A20-0D5741595CE1"),
-                BirthDate = DateTime.Now,
-                Mail = "correo@yahoo.com",
-                Name = "Test Owner",
-                Password = "12345678"
+              
             };
 
             admOwner.CreateOwner(newOwner);

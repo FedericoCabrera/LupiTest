@@ -15,6 +15,15 @@ namespace Lupi.BusinessLogic
         public AdmOwner()
         {
             unitOfWork = new UnitOfWork();
+            Pet p = new Pet()
+            {
+                Age = 19
+            };
+
+            if(!p.IsNameValueValid())
+            {
+                throw new Exception();
+            }
         }
 
         public AdmOwner(IUnitOfWork unitOfWork)
